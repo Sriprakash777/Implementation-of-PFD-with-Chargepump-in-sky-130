@@ -13,7 +13,7 @@ This proposes the implementation of a Serializer with Low Voltage Differential S
 eSim Open Source EDA Tool is used here. <br/>
 <img width="958" alt="eSim" src="https://user-images.githubusercontent.com/88900482/157658067-890cb833-ce5f-4246-9014-b4eff42cfc40.PNG">
 # PFD with chargepump Block Diagram with Circuit Diagram and Simulation waveforms in eSim Tool
-<img width="300" alt="image" src=""C:\Users\91766\Desktop\sky130\output waveform\sir.png"">
+<img width="300" alt="image" src="C:\Users\91766\Desktop\sky130\output waveform\sir.png">
 ## Opposite Serial data converted to Low voltage differential signals Voa and Vob of 500mVp-p 
 <img width="960" alt="LVDR-OP" src="https://user-images.githubusercontent.com/92221278/194721260-f44197c2-6eb3-4632-9c47-868f6f5d2555.png">
 ## Multiplexer (MUX 4:1) and Buffer Digital Block
