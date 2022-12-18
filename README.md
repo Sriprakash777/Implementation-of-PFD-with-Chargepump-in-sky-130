@@ -4,7 +4,6 @@ This repository presents the design of PFD-with-Chargepump-in-sky-130. It is imp
 * [Abstract](https://github.com/MadhuriKadam9/Design-of-Serializer-with-LVDS-Driver/blob/main/README.md#abstract-)<br/>
 * [Tool used](https://github.com/MadhuriKadam9/Design-of-Serializer-with-LVDS-Driver/blob/main/README.md#tool-used)<br/>
 * [Serializer Block Diagram with Circuit Diagram and Simulation waveforms in eSim Tool](https://github.com/MadhuriKadam9/Design-of-Serializer-with-LVDS-Driver/blob/main/README.md#serializer-block-diagram-with-circuit-diagram-and-simulation-waveforms-in-eSim-tool)<br/>
-* [Future Scope](https://github.com/MadhuriKadam9/Design-of-Serializer-with-LVDS-Driver/blob/main/README.md#future-scope)<br/>
 * [Authoured By](https://github.com/MadhuriKadam9/Design-of-Serializer-with-LVDS-Driver/blob/main/README.md#authoured-by)<br/>
 * [Acknowledgements](https://github.com/MadhuriKadam9/Design-of-Serializer-with-LVDS-Driver/blob/main/README.md#acknowledgements)<br/>
 * [References](https://github.com/MadhuriKadam9/Design-of-Serializer-with-LVDS-Driver/edit/blob/README.md#references)<br/>
@@ -13,8 +12,8 @@ This proposes the implementation of a Serializer with Low Voltage Differential S
 # Tool used<br/>
 eSim Open Source EDA Tool is used here. <br/>
 <img width="958" alt="eSim" src="https://user-images.githubusercontent.com/88900482/157658067-890cb833-ce5f-4246-9014-b4eff42cfc40.PNG">
-# Serializer Block Diagram with Circuit Diagram and Simulation waveforms in eSim Tool
-<img width="872" alt="image" src="https://user-images.githubusercontent.com/92221278/194721167-8422af77-ed92-4c3f-be6f-fa3c40d5619e.png">
+# PFD with chargepump Block Diagram with Circuit Diagram and Simulation waveforms in eSim Tool
+<img width="872" alt="image" src=""C:\Users\91766\Desktop\sky130\output waveform\sir.png"">
 ## Opposite Serial data converted to Low voltage differential signals Voa and Vob of 500mVp-p 
 <img width="960" alt="LVDR-OP" src="https://user-images.githubusercontent.com/92221278/194721260-f44197c2-6eb3-4632-9c47-868f6f5d2555.png">
 ## Multiplexer (MUX 4:1) and Buffer Digital Block
